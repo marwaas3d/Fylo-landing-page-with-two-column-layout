@@ -1,7 +1,4 @@
-  /* <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style> */
+
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
@@ -192,3 +189,14 @@
     background-color: var(--Desaturated-Blue);
     border-radius: 10px;
   }
+
+  #Team a:hover {
+  color: hsl(170deg 64.79% 67.8%) !important;
+}
+
+
+input[type="submit"]:hover{
+  background-color: #74b0f2 !important;
+  border-color: #74b0f2 !important;
+}
+
